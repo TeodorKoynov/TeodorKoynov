@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on improving my skills
+- 🌱 I’m currently learning C#
+- 📫 How to reach me: hard
+- ⚡ Fun fact: I am a noobie
 <!--
 **TeodorKoynov/TeodorKoynov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

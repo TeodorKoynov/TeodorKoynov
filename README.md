@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on improving my skills
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Web
 - 📫 How to reach me: hard
 - ⚡ Fun fact: I am a noobie
 <!--
